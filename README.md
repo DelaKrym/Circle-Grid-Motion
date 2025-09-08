@@ -7,3 +7,4 @@ How to use map() to convert sine wave output into RGB into colour values.
 NEW TECHNIQUES USED
 sin() and cos() for smooth oscillation
 map() for dynamic colour mapping
+frameCount() as part of the dynamic motion
